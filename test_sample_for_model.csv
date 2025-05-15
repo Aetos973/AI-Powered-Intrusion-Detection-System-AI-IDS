@@ -1,0 +1,6 @@
+date,time,door_state,sphone_signal,label
+26-04-19,13:59:20,closed,0,1
+25-04-19, 14:48:48 ,open,1,1
+26-04-19,15:02:56,closed,0,1
+31-03-19,   12:41:35   ,closed,false  ,0
+25-04-19, 08:49:02 ,closed,0,1
