@@ -1,0 +1,6 @@
+date,time,temp_inside,door_open,label
+2025-05-17,08:00:00,4.0,False,stable
+2025-05-17,12:15:00,7.5,True,open
+2025-05-17,12:20:00,6.0,False,cooling
+2025-05-17,18:30:00,3.8,False,stable
+2025-05-17,23:45:00,9.2,True,alert
